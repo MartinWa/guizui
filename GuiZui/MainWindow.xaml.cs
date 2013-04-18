@@ -25,7 +25,7 @@ namespace GuiZui
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void HelloClick(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Hej hopp");
         }
