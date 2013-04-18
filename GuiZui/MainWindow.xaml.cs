@@ -27,7 +27,7 @@ namespace GuiZui
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Hej");
+            MessageBox.Show("Hej hopp");
         }
     }
 }
